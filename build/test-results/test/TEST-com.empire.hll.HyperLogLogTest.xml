@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.empire.hll.HyperLogLogTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-29T02:46:26.585Z" hostname="localhost" time="0.394">
+  <properties/>
+  <testcase name="testDuplicates()" classname="com.empire.hll.HyperLogLogTest" time="0.071"/>
+  <testcase name="testMerge()" classname="com.empire.hll.HyperLogLogTest" time="0.053"/>
+  <testcase name="testAccuracy_100000Elements()" classname="com.empire.hll.HyperLogLogTest" time="0.027"/>
+  <testcase name="testThreadSafety()" classname="com.empire.hll.HyperLogLogTest" time="0.047"/>
+  <testcase name="testAccuracy_1000Elements()" classname="com.empire.hll.HyperLogLogTest" time="0.003"/>
+  <testcase name="testPropertyBased_AccuracyBounds()" classname="com.empire.hll.HyperLogLogTest" time="0.14"/>
+  <testcase name="testMemoryEfficiency()" classname="com.empire.hll.HyperLogLogTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
