@@ -1,0 +1,13 @@
+build/
+out/
+target/
+*.class
+*.jar
+.idea/
+*.iml
+.vscode/
+.gradle/
+.DS_Store
+.env
+*.key
+*.pem
