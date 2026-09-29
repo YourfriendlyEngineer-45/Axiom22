@@ -1,6 +1,8 @@
 build/
 out/
+changes
 target/
+*.sh
 *.class
 *.jar
 .idea/
